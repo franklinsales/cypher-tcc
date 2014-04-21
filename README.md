@@ -1,4 +1,11 @@
 cypher-tcc
 ==========
 
-Aplicação de conversas criptografadas que eu desenvolvi em conjunto com dois colegas de faculdade Guilherme Redher e Guilherme Yudi.
+Cypher é uma aplicação Web que proporciona um chat de mensagens criptografadas, a aplicação foi desenvolvida como um projeto de TCC por:
+Franklin Sales
+Guilherme Redher
+Guilherme Yudi
+
+Detalhes:
+
+O projeto Cypher foi desenvolvido em PHP utilizando o framework Laravel.
